@@ -4,70 +4,70 @@
       "name": "GorillaShirts",
       "author": "developer9998",
       "tags": ["cosmetic"],
-      "more": "mods/not_defined_1.json"
+      "more": "mods/not_defined_1.json",
       "hide": false
     },
     {
       "name": "Utilla",
       "author": "developer9998",
       "tags": ["utility", "core", "library"],
-      "more": "mods/not_defined_2.json"
+      "more": "mods/not_defined_2.json",
       "hide": false
     },
     {
       "name": "BepInEx",
       "author": "The BepInEx Team",
       "tags": ["core", "library"],
-      "more": "mods/not_defined_3.json"
+      "more": "mods/not_defined_3.json",
       "hide": true
     },
     {
       "name": "ComputerInterface",
       "author": "DecalFree",
       "tags": ["utility"],
-      "more": "mods/not_defined_4.json"
+      "more": "mods/not_defined_4.json",
       "hide": false
     },
     {
       "name": "Head Modifications",
       "author": "drowsiiii",
       "tags": ["cosmetic"],
-      "more": "mods/not_defined_5.json"
+      "more": "mods/not_defined_5.json",
       "hide": false
     },
     {
       "name": "Head Modifications",
       "author": "drowsiiii",
       "tags": ["cosmetic"],
-      "more": "mods/not_defined_5.json"
+      "more": "mods/not_defined_5.json",
       "hide": false
     },
     {
       "name": "FuckOffFog",
       "author": "zlothyy",
       "tags": ["cosmetic"],
-      "more": "mods/not_defined_5.json"
+      "more": "mods/not_defined_5.json",
       "hide": false
     },
     {
       "name": "dingus",
       "author": "zlothyy",
       "tags": ["fun"],
-      "more": "mods/not_defined_5.json"
+      "more": "mods/not_defined_5.json",
       "hide": false
     },
     {
       "name": "BingusNameTags",
       "author": "sirkingbinx",
       "tags": ["cosmetic"],
-      "more": "mods/not_defined_5.json"
+      "more": "mods/not_defined_5.json",
       "hide": false
     },
     {
       "name": "FuckOffFog",
       "author": "sirkingbinx",
       "tags": ["cosmetic"],
-      "more": "mods/not_defined_5.json"
+      "more": "mods/not_defined_5.json",
       "hide": false
     }
   ]
